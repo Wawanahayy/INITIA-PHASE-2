@@ -85,7 +85,6 @@ sudo journalctl -u initiad.service -f -o cat
                                       Initia Validator Tutorial
 
 1. Add Wallet OR RECOVERY WALLET
-
 initiad keys add $WALLET
 or
 initiad keys add $WALLET --recover
