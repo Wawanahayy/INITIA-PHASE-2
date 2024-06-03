@@ -1,5 +1,6 @@
 1. You need to have lz4 installed in order to extract the snapshot.
-``` sudo apt update
+``` 
+sudo apt update
 sudo apt install snapd -y
 sudo snap install lz4
 
