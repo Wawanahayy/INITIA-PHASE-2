@@ -11,4 +11,6 @@ WEBSITE: https://linktr.ee/Jawa_Pride_ID
 NODE TUTORIAL
 
 1) Install Dependencies
+
+
 ```sudo apt update && sudo apt install curl git jq build-essential gcc unzip wget lz4 -y```
