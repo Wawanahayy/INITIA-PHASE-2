@@ -152,7 +152,7 @@ initiad status 2>&1 | jq
 
 
 
-                                                         COMMAND CHEAT
+                             COMMAND CHEAT
 
 1. List All Wallets
 initiad keys list
@@ -214,7 +214,7 @@ initiad q staking validators -oj --limit=2000 | jq '.validators[] | select(.stat
 8. Signing info
 initiad q slashing signing-info $(initiad tendermint show-validator) 
 
-                                                                    Delete node
+                             Delete node
 sudo systemctl stop initiad
 sudo systemctl disable initiad
 sudo rm -rf /etc/systemd/system/initiad.service
