@@ -144,6 +144,7 @@ sudo systemctl stop initiad
 
 6. Restart service
 sudo systemctl restart initiad
+sudo journalctl -u initiad -f -o cat
 
 7. Check service status
 sudo systemctl status initiad
