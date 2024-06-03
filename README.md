@@ -8,7 +8,7 @@ LINK DISCORD  : https://discord.com/invite/dHtxRrs2US
 WEBSITE: https://linktr.ee/Jawa_Pride_ID
 
 
-```                                                                         NODE TUTORIAL
+```                                                       NODE TUTORIAL
 
 1) Install Dependencies
 sudo apt update && sudo apt install curl git jq build-essential gcc unzip wget lz4 -y
@@ -82,7 +82,7 @@ sudo journalctl -u initiad.service -f -o cat
 
 
 
-                                                            Initia Validator Tutorial
+                                      Initia Validator Tutorial
 
 1. Add Wallet OR RECOVERY WALLET
 
