@@ -1,20 +1,23 @@
-# INITIA-PHASE-2
-JAWA PRIDE VALIDATOR  
-LINK TELEGRAM : https://t.me/AirdropJP_JawaPride 
-LINK DISCUSS  : https://t.me/AirdropJPdiskusi 
-LINK TWITTER  : https://x.com/JAWAPRIDE_ID 
-LINK DISCORD  : https://discord.com/invite/dHtxRrs2US  
+# INITIA-PHASE-2                                                                 
+JAWA PRIDE VALIDATOR                                                 
+LINK TELEGRAM : https://t.me/AirdropJP_JawaPride                               
+LINK DISCUSS  : https://t.me/AirdropJPdiskusi                                            
+LINK TWITTER  : https://x.com/JAWAPRIDE_ID                                                             
+LINK DISCORD  : https://discord.com/invite/dHtxRrs2US                                                                            
 
-WEBSITE: https://linktr.ee/Jawa_Pride_ID
+WEBSITE: https://linktr.ee/Jawa_Pride_ID                                       
 
 
-About Initia
+About Initia                                  
 Initia is a pioneering network for interwoven rollups, revolutionizing blockchain by simplifying complexity and providing a unified platform akin to using your favorite smartphone, inspired by Apple's design philosophy.
-Website : https://initia.xyz/                                              
+                                                         
+Website : https://initia.xyz/                                                                                                            
 Githubh : https://github.com/initia-labs                                                                            
 Twitter : https://x.com/initiaFDN                                                                               
 Discord : https://discord.gg/initia                                                               
-Blog    : https://medium.com/@initiafdn                                                                            
+Blog    : https://medium.com/@initiafdn            
+
+INITIA TASK: https://initia-xyz.notion.site/The-Initiation-Validator-Tasks-6d88ab0034644473907435662f9285b3                                                                              
 
 
 ```                                                       NODE TUTORIAL
