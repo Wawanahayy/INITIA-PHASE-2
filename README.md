@@ -11,7 +11,7 @@ WEBSITE: https://linktr.ee/Jawa_Pride_ID
 About Initia
 Initia is a pioneering network for interwoven rollups, revolutionizing blockchain by simplifying complexity and providing a unified platform akin to using your favorite smartphone, inspired by Apple's design philosophy.
 Website : https://initia.xyz/
-Github : [****](https://github.com/initia-labs)
+**Github**https://github.com/initia-labs 
 Twitter 
 Discord
 Blog
