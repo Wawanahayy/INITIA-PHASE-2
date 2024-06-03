@@ -15,7 +15,7 @@ Website : https://initia.xyz/
 Githubh : https://github.com/initia-labs                                                                            
 Twitter : https://x.com/initiaFDN                                                                               
 Discord : https://discord.gg/initia                                                               
-Blog    : https://medium.com/@initiafdn 
+Blog    : https://medium.com/@initiafdn                                                      
 docs    : https://docs.initia.xyz/                                                                        
 
 INITIA TASK: https://initia-xyz.notion.site/The-Initiation-Validator-Tasks-6d88ab0034644473907435662f9285b3                                                                              
